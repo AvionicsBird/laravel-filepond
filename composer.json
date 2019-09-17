@@ -1,5 +1,5 @@
 {
-  "name": "sopamo/laravel-filepond",
+  "name": "avionicsbird/laravel-filepond",
   "description": "Laravel backend module for filepond uploads",
   "license": "MIT",
   "keywords": [
@@ -10,15 +10,16 @@
     "image"
   ],
   "authors": [
+    {"name" : "Rick Bird",
+     "email" : "support@cryptom.city"
+    },
     {
       "name": "Paul Mohr",
       "email": "p.mohr@sopamo.de"
     }
   ],
   "require": {
-    "php": "^7.0",
-    "illuminate/support": "~5.5.0|~5.6.0|~5.7.0|~5.8.0",
-    "illuminate/contracts": "~5.5.0|~5.6.0|~5.7.0|~5.8.0"
+    "php": "^7.0"
   },
   "autoload": {
     "psr-4": {
